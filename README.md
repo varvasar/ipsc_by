@@ -8,6 +8,7 @@
 |Standby | Увага|
 |If you are finished, unload and show clear | Калі скончыў – выбіць, паказаць|
 |If clear, hammer down, holster | Калі выбіта – спуск і ў кабуру|
+|If clear, trigger safety, barrel up | Калі выбіта - бяспечнік, ствол дагары|
 |Range is clear | Пляцоўка бяспечная|
 |Uder fire | Пад агнём|
 |Relax | Спачні|
@@ -58,18 +59,25 @@
 |Стрельба | Стральба, стралянина|
 |Стрелок | Стралок, стралец|
 |Баррикада | Барыкада|
-|Safety area | Зона бяспекі|
 |Зона пристрелки | Зона прыстрэлкі|
 |Перемещение | Перасоўванне|
 |Перезаряжать | Перанабіваць|
 |Кучный | Густы|
 |Кучность боя | Гушчыня бою|
+|Safety area | Зона бяспекі|
+|Course of fire | Практыкаванне |
+|Stage | Этап |
+|Safe Angles of Fire | Вугал бяспекі |
+|Minimum Distance | Мінімальная адлегласць |
+|Obstacles | Перашкоды |
+|Common Firing Lines | Агульныя агнявыя рубяжы |
+|Competitors | Спаборнікі |
+|Power factor | Фактар магутнасці |
+|Barrier | Бар'ер |
 
 
 ## XZ
 |**EN**|**BY**|
 | ------------- | ------------- |
-|Stage | |
-|Course of fire | |
 |Dry firing | |
 
