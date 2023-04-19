@@ -74,6 +74,7 @@
 |Competitors | Спаборнікі |
 |Power factor | Фактар магутнасці |
 |Barrier | Бар'ер |
+|Double tap | Двустрэл |
 
 
 ## XZ
