@@ -5,7 +5,7 @@
 | ------------- | ------------- |
 |Load and make ready | Набіць (зарадзіць) і падрыхтавацца|
 |Are you ready? | Гатовы?|
-|Standby | Увага|
+|Standby | Увага (Зважай)|
 |If you are finished, unload and show clear | Калі скончыў – выбіць, паказаць|
 |If clear, hammer down, holster | Калі выбіта – спуск і ў кабуру|
 |If clear, trigger safety, barrel up | Калі выбіта - бяспечнік, ствол дагары|
